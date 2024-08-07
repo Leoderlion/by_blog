@@ -1,6 +1,6 @@
 ---
-layout: "Post"
-title: "Learning Git-Hub for repository push and pull from remote"
+layout: "post"
+title: "Learning Git-Hub"
 date: 2024-08-07 10:30:30 +0800
 ---
 
